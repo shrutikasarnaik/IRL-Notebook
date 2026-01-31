@@ -1,9 +1,9 @@
 # Food Delivery Data Analysis
 
-Project analyzing 10K+ food delivery orders from multiple data sources.
+Project analyzing 10K+ food delivery orders from multiple data sources
 
 **Files:**
-- `food_delivery_analysis.ipynb` - Main analysis notebook
+- `food_delivery_analysis.ipynb` - main analysis notebook
 - Data files: orders.csv, users.json, restaurants.sql
 
 **Analysis covers:**
